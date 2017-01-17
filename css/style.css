@@ -9,3 +9,54 @@
 body{
   font-family: "Helvetica Neue", "Helvetica", "sans-serif";
 }
+
+.header-container{
+  font-size: 0;
+  background-color: #2D2D2D;
+}
+
+.header-container img{
+  display: block;
+  width: auto;
+  height: 60px;
+}
+
+.header-image{
+  display: inline-block;
+  vertical-align: top;
+  font-size: medium;
+}
+
+.header-links{
+  font-size: 13px;
+  color: #FFF;
+  padding-left: 24px;
+}
+
+.navigation{
+  padding-top: 24px;
+  padding-left: 26px;
+}
+
+.content-container{
+  font-size: 0px;
+  max-width: 1300px;
+}
+
+.column-container{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.history{
+  width: 70%;
+}
+
+.events{
+  width: 30%;
+}
+
+.future-container{
+
+}
