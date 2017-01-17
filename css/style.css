@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box
+}
+
+#app-container{
+  width: 1300px;
+}
+
+body{
+  font-family: "Helvetica Neue", "Helvetica", "sans-serif";
+}
