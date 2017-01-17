@@ -57,6 +57,104 @@ body{
   width: 30%;
 }
 
-.future-container{
+.futurecolumns{
+  font-size: 0px;
+}
 
+.future-textcolumn,
+.future-imagecolumn{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+  width: 50%;
+}
+
+.alfredcolumns{
+  font-size: 0px;
+}
+
+.alfred-imagecolumn,
+.alfred-textcolumn{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.alfred-textcolumn{
+  width: 60%;
+}
+
+.alfred-imagecolumn{
+  width: 40%;
+}
+
+.artspeak-container{
+  font-size: 0px;
+}
+
+.artspeak-imagecolumn,
+.artspeak-textcolumn{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.artspeak-imagecolumn{
+  width: 30%;
+}
+.artspeak-textcolumn{
+  width: 70%;
+}
+
+
+
+.influence-container{
+  font-size: 0px;
+}
+
+.influence-imagecolumn,
+.influence-textcolumn{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.influence-imagecolumn{
+  width: 30%;
+}
+.influence-textcolumn{
+  width: 70%;
+}
+
+
+
+
+.artbite-container{
+  font-size: 0px;
+}
+
+.artbite-imagecolumn,
+.artbite-textcolumn{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.artbite-imagecolumn{
+  width: 30%;
+}
+.artbite-textcolumn{
+  width: 70%;
+}
+
+
+
+.footer-container{
+  font: 0px;
+}
+
+.footcontent{
+  display: inline-block;
+  vertical-align: top;
+  font-size: 12px;
 }
